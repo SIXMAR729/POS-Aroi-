@@ -371,7 +371,7 @@ class Utilities {
 
 
 //ORDER INSTANTIATION
-//  const order = new Order();
+  const order = new Order();
 
 //  function sheetData() {
 //    google.script.run.withSuccessHandler(function(dataArray){
@@ -415,7 +415,5 @@ document.querySelectorAll('.paypad-btn').forEach(button => {
     })
 })
 
-document.querySelectorAll('.menu-item').addEventListener('click', () => {
-    console.log('alert');
-})
+
 

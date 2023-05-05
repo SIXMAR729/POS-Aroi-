@@ -5,6 +5,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.menu-payment img {
+    width: 150px;
+    height: 149px;
+}
+
 html,
 body {
     height: 100%;
